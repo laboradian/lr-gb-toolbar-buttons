@@ -1,0 +1,28 @@
+.huto {
+	font-weight: bold;
+}
+
+.hutoaka {
+	font-weight: bold;
+	color: #ff0000;
+}
+
+.oomozi {
+	font-size: 18pt;
+	line-height: 35px;
+	font-weight:bold;
+}
+
+.komozi {
+	font-size: 80%;
+}
+
+.ymarker {
+	background:#FFF9C4;
+	padding:0 2px;
+}
+
+.rmarker {
+	background:#ffcdd2;
+	padding:0 2px;
+}
